@@ -61,7 +61,7 @@ http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9298
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9300
 #EXTINF:0 tvg-id="ext" group-title="Albania",Film Komedi Backup
 http://topstb.com:8000/50656250782258/27115840859269/190456
-#EXTINF:0 tvg-id="DigiGold.al" group-title="Albania ➾ Movie",AL: Film Gold
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Albania",AL: Film Gold
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283212
 #EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania",Film Max HD
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9294
@@ -155,7 +155,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1304
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1862
 #EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",Link 2:SuperSport News
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1313
-#EXTINF:0 tvg-id="ext" group-title="Albania ",Link 2:SuperSport 2
+#EXTINF:0 tvg-id="ext" group-title="Albania",Link 2:SuperSport 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1312
 #EXTINF:0 tvg-id="ext" group-title="Albania",Link 2:SuperSport 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1319
